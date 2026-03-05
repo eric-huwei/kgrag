@@ -9,7 +9,7 @@ env/
 .venv/
 
 # 操作系统文件
-.DS_Store
+.DS_Sto
 Thumbs.db
 
 # 日志/缓存
@@ -20,3 +20,7 @@ Thumbs.db
 .idea/
 .vscode/
 .cursor/
+
+#python 虚拟环境
+eric_LangChain/
+eric_LlamaIndex/
