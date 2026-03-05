@@ -1,14 +1,3 @@
-"""
-注意：运行此代码前，请确保已在环境变量中设置OpenAI API密钥。
-在Linux/Mac系统中，可以通过以下命令设置：
-export OPENAI_API_KEY='your-api-key'
-
-在Windows系统中，可以通过以下命令设置：
-set OPENAI_API_KEY=your-api-key
-
-如果无法取得OpenAI API密钥，也没关系，我们有平替方案，请移步至其它程序。
-"""
-
 import os
 
 # 第一步：强制清空所有 OpenAI 相关环境变量（核心！避免残留配置干扰）
